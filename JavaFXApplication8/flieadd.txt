@@ -1,0 +1,7 @@
+      BUSNO. LOCA.   LEAVING DATE     TIME      DIS.   ARREAVL DATE     TIME
+Busno. 7550 Berllin   5/2021onday.15 at5:30pm  London 6/2021onday.1   at6:00am    
+Busno. 7562 Berllin   5/2021onday.25 at7:20pm  Paris  6/2021onday.10  at10:00am   
+Busno. 7560 Paris     5/2021onday.15 at6:30pm  London 6/2021onday.2   at4:00am    
+Busno. 7565 Wein      6/2021onday.20 at8:30pm  Holand 6/2021onday.25  at10:00am
+Busno. 7570 Holand    8/2021onday.15 at6:30pm  London 6/2021onday.2   at4:00am    
+Busno. 7575 Amstredam 3/2021onday.20 at8:30pm  Holand 6/2021onday.25  at10:00am
